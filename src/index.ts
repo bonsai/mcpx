@@ -10,7 +10,7 @@ import { launchHttp, portOpen, kill, logPath, env } from "./proc.js";
 import { ServerSpec, toJson } from "./types.js";
 import { RUN_DIR } from "./registry.js";
 
-const HELP = `mcpx - run any MCP server on the spot (uvx/tsx for MCP)
+const HELP = `mcpx - run any MCP server on the spot (tsx for MCP)
 
 Usage:
   mcpx specs                       list servers found in local config

@@ -1,7 +1,7 @@
 {
   "name": "mcpx",
   "version": "0.1.0",
-  "description": "Run any MCP server on the spot - uvx for the Model Context Protocol.",
+  "description": "Run any MCP server on the spot - tsx for the Model Context Protocol.",
   "type": "module",
   "bin": {
     "mcpx": "dist/index.js"

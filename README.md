@@ -1,6 +1,6 @@
 # mcpx
 
-**Run any MCP server on the spot.** `uvx` for the Model Context Protocol.
+**Run any MCP server on the spot.** `tsx` for the Model Context Protocol.
 
 Point `mcpx` at a repo, a server file, an npm command, a URL, or a name from
 your local `mcp.json` — it boots the server, does the work (`ls` / `call` /
